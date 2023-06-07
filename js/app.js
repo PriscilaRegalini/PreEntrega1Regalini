@@ -1,4 +1,6 @@
 
+document.getElementById("divImg").innerHTML='<img src="./img/plantillasIndex.jpg" />';
+
 let nombreApellido='';
 let institucion='';
 let certificado;
