@@ -67,7 +67,7 @@ do {
 
     institucion = validacionString(prompt('Ingrese Nombre de la Institución: '));
 
-    continuar = prompt('Desea continuar con un nuevo certificado? si/no');
+    continuar = prompt('Si desea continuar con un nuevo certificado ingrese "si"');
 
     console.log('Terminaste de crear tu Certificado! : ' + '\n'  + '\n' + '---------------------------------'+ '\n' + '\n'+certificado  + '\n'  + '\n' + 'La ' + institucion.toUpperCase()   + '\n'  + '\n' + ' le otorga el presente certificado a '  + '\n'  + '\n' + nombreApellido.toUpperCase() + '\n' + '\n'+ 'por ' + motivo + '\n' + '\n'+ '__________________'+'\n'+ 'Firma '+ '\n'  + '\n' + '---------------------------------' );
    
