@@ -1,6 +1,6 @@
 # PreEntrega1Regalini
 
-<h2>Generador de certificados</h2>
+<h2> :medal_sports: Generador de certificados :medal_sports:</h2>
 
 <h3>Los pasos a seguir para generar tu certificado</h3>
 
@@ -17,12 +17,12 @@
     <li>Nombre y Apellido del destinatario</li>
     <li>Nombre de la Institución</li>
   </ul><br>
-  <li>Puedes crear cuantos certificados necesites, o terminar y listo! <br> TUS CERTIFICADOS HABRÁN SIDO GENERADOS </li>
+  <li>Puedes crear cuantos certificados necesites, o terminar y listo! :tada: <br> TUS CERTIFICADOS HABRÁN SIDO GENERADOS </li>
 </ul>
 
 ---------
 
-<h3>Herramientas y lenguajes que se utilizaron para realizar esta entrega</h3>
+<h3> :woman_technologist: Herramientas y lenguajes que se utilizaron para realizar esta entrega</h3><br>
 
 ![(https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -38,7 +38,7 @@
 
 ------------
   
- <h3>Código .js</h3> 
+ <h3> :point_right: Código .js</h3> 
  <p>Uso de: </p>
  <ul>
    <li>Variables</li>
