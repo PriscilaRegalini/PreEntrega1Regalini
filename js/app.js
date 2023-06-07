@@ -5,15 +5,6 @@ let certificado;
 let salir=0;
 let opcion;
 
-/* const graduacion = ()=>{
-    console.log('Certificado de Graduación')
-}
-const reconocimiento = ()=>{
-    console.log('Reconocimiento')
-}
-const participacion = ()=>{
-    console.log('Certificado de Participación')
-} */
 const validacionCertificado = (valor) =>{
     do {
         if (valor >=1 && valor <=4 ) {
